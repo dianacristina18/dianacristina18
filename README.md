@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ungureanu Diana-Cristina</h1>
-<h3 align="center">A passionate Computer Science Student & Full Stack developer from Romania</h3>
+<h3 align="center">A passionate Full Stack developer from Romania</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dianacristina18&label=Profile%20views&color=0e75b6&style=flat" alt="dianacristina18" /> </p>
